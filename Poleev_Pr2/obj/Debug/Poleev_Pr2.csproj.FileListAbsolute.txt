@@ -1,0 +1,15 @@
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\bin\Debug\Poleev_Pr2.exe.config
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\bin\Debug\Poleev_Pr2.exe
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\bin\Debug\Poleev_Pr2.pdb
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\bin\Debug\ExcelDataReader.dll
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\bin\Debug\ExcelDataReader.pdb
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\bin\Debug\ExcelDataReader.xml
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.csproj.AssemblyReference.cache
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.Form1.resources
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.Properties.Resources.resources
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.csproj.GenerateResource.cache
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.csproj.CoreCompileInputs.cache
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.csproj.CopyComplete
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.exe
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.pdb
+D:\Андрей\Практика\Практическая 2\Poleev_Pr2\obj\Debug\Poleev_Pr2.csproj.ResolveComReference.cache
